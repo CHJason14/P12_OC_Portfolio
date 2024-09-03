@@ -1,8 +1,8 @@
 {
     "name": "react-portfolio",
     "version": "0.1.0",
-    "homepage": "https://chjason14.github.io/P12_OC_Portfolio.git",
-    "private": false,
+    "homepage": "https://CHJason14.github.io/P12_OC_Portfolio",
+    "private": true,
     "dependencies": {
         "bootstrap": "^5.2.3",
         "emailjs-com": "^3.2.0",
