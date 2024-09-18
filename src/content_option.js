@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "Un peu sur moi",
-    aboutme: "Je m'appelle Jason, j'ai 27 ans, je suis jeune développeur Front End. Passionné depuis mes 13 ans par le développement j'ai choisit une reconversion professionnel pour m'orienter dans un domaine qui me convient.",
+    aboutme: "Je m'appelle Jason, j'ai 27 ans, je suis jeune développeur Front End. Passionné depuis mes 13 ans par le développement j'ai choisis une reconversion professionnel pour m'orienter dans un domaine qui me convient.",
 };
 const worktimeline = [{
         jobtitle: "Mastering Front End - From Scratch",
@@ -91,7 +91,6 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com/CHJason14",
     linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
 };
 export {
     meta,
