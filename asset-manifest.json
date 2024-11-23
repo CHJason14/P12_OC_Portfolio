@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/P12_OC_Portfolio/static/css/main.fbc00891.css",
-    "main.js": "/P12_OC_Portfolio/static/js/main.11f8a49b.js",
+    "main.css": "/P12_OC_Portfolio/static/css/main.4d8c92ca.css",
+    "main.js": "/P12_OC_Portfolio/static/js/main.ea44ec1c.js",
     "index.html": "/P12_OC_Portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.fbc00891.css",
-    "static/js/main.11f8a49b.js"
+    "static/css/main.4d8c92ca.css",
+    "static/js/main.ea44ec1c.js"
   ]
 }
