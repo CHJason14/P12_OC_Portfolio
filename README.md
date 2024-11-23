@@ -3,10 +3,10 @@
  
 Install required dependencies
 
-<pre>yarn install</pre>
+<pre>npm install</pre>
 
 
 Start the server
 
-<pre>yarn start</pre>
+<pre>npm start</pre>
 

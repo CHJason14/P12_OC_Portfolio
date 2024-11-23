@@ -1,14 +1,14 @@
 const logotext = "JASON";
 const meta = {
     title: "Jason Chiampi",
-    description: "Je me présente, Jason, j'ai 27 ans et je suis développeur Front End au nord de Paris",
+    description: "Je me présente, Jason, j'ai 28 ans et je suis développeur Front End au nord de Paris",
 };
 
 const introdata = {
     title: "Je m'appelle Jason Chiampi",
     animated: {
         first: "J'aime développer ",
-        second: "Je réalise de jolies applications",
+        second: "Je met régulièrement mes compétences à jour",
         third: "Je travail sérieusement",
     },
     description: "Prêt à écouter tous vos projets, pour les réaliser en fonction de vos besoins et de vos envies",
@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "Un peu sur moi",
-    aboutme: "Je m'appelle Jason, j'ai 27 ans, je suis jeune développeur Front End. Passionné depuis mes 13 ans par le développement j'ai choisis une reconversion professionnel pour m'orienter dans un domaine qui me convient.",
+    aboutme: "Je m'appelle Jason, j'ai 28 ans, je suis jeune développeur Front End. Passionné depuis mes 13 ans par le développement j'ai choisis une reconversion professionnel pour m'orienter dans un domaine qui me convient.",
 };
 const worktimeline = [{
         jobtitle: "Mastering Front End - From Scratch",
@@ -45,17 +45,17 @@ const skills = [{
     },
     {
         name: "Javascript",
-        value: 70,
+        value: 80,
     },
     {
         name: "React",
-        value: 60,
+        value: 80,
     },
 ];
 
 const services = [{
         title: "Création Site Web",
-        description: "Création de site web en HTML/CSS ou React en suivant vos demandes.",
+        description: "Création de site web en HTML/CSS, Javascript ou React en suivant vos demandes.",
     },
     {
         title: "Référencement Web",
@@ -68,6 +68,11 @@ const services = [{
 ];
 
 const dataportfolio = [{
+        img: "https://i.ibb.co/fDhMk47/adelec.png",
+        description: "Site vitrine d'un entrepreneur électricien",
+        link: "https://adelec-website.fr/index.html",
+    },
+    {
         img: "https://i.ibb.co/yXPW45p/OhMyfood.jpg",
         description: "Application de réservation de menu dans un restaurant",
         link: "https://chjason14.github.io/P4_OC_Ohmyfood/index.html",
@@ -90,7 +95,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/CHJason14",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/jason-chiampi-082ba6329/",
 };
 export {
     meta,
